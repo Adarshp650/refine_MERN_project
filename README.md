@@ -69,4 +69,4 @@ Copy code
 git push origin feature/your-feature-branch-name
 Create a pull request for your changes.
 License
-This project is licensed under the MIT License. See the LICENSE file for more details.# refine_MERN_project
+This project is licensed under the MIT License. See the LICENSE file for more details.# refine_MERN_project.
