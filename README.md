@@ -1,16 +1,27 @@
-Real Estate Application with CRUD
+# Real Estate Application with CRUD
 This is a Real Estate property application developed with MERN stack and TypeScript, allowing users to log in with Google OAuth, create and upload properties with images, location, and price, and edit properties with CRUD functionality. The application is designed using Material UI and Cloudinary for image storage.
 
-Tools/Technologies Used
-TypeScript
-React.js
-Material UI
-Google OAuth
-Cloudinary
-Express.js
-MongoDB
-Figma
-Installation Instructions
+## Tools/Technologies Used
+* TypeScript
+* React.js
+* Material UI
+* Google OAuth
+* Cloudinary
+* Express.js
+* MongoDB
+* Figma
+
+## Project Duration
+This project was developed between January 2023 and March 2023.
+
+## Features
+* User authentication with Google OAuth.
+* Create, read, update, and delete (CRUD) properties with images, location, and price.
+* Pagination to move from page 1 to n.
+* Front-end built with TypeScript and React.js, and styled with Tailwind CSS.
+* Back-end built with Node.js, Express.js, and MongoDB.
+
+## Installation Instructions
 Clone the repository:
 bash
 Copy code
@@ -24,7 +35,7 @@ cd ../server
 npm install
 Set up Google OAuth and Cloudinary credentials in server/.env file.
 
-Start the application:
+### Start the application:
 
 bash
 Copy code
